@@ -1,1 +1,6 @@
 This is git directly from folder using cmd
+
+# Git Branch
+# Git merge
+# pull request
+# git fork
